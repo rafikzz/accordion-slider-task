@@ -1,0 +1,16 @@
+{
+    "name": "acf/accordian-slider",
+    "title": "Accordian Slider",
+    "description": "A custom accordian-slider block that uses ACF fields.",
+    "style": [ "file:./accordian-slider.css" ],
+    "category": "media",
+    "icon": "admin-comments",
+    "keywords": ["Accordian", "slider"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "accordian-slider.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}
