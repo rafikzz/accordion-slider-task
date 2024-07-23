@@ -26,7 +26,6 @@
   
   .video-swiper .swiper-slide {
     width: 100%;
-    height: 100%;
   }
   
   .video-container {
@@ -160,7 +159,6 @@
       justify-content: stretch;
     }
     .video-swiper__col-video {
-      aspect-ratio: 1 / 1;
       margin-bottom: 0;
     }
     .video-swiper__col-accordian {
