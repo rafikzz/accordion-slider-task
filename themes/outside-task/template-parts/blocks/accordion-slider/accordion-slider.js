@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 playVideo(activeSlide);
               }
           },
-         
           autoplayTimeLeft(s, time, progress) {
             container
               .querySelector(".go-to-buttons ")
